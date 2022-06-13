@@ -11,5 +11,6 @@ Uniinfo Machine Vision
 
 ### 실습 환경
 
+![uniinfo-consortium(6-13)](https://user-images.githubusercontent.com/54794815/173274859-37bbbc89-4619-42e2-8802-802293c4a1fb.jpg)
 
-![Irostyle](https://user-images.githubusercontent.com/54794815/171533310-929065cf-ee75-4813-99e3-1c6fce8212c4.jpg)
+
