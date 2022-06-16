@@ -5,7 +5,7 @@
 
     기본과정 -> https://url.kr/ay1ps4
 
-    심화과정 -> https://url.kr/cady18
+    심화과정 -> https://url.kr/2m4zp9
 
 
 ### Bar Codes
