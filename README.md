@@ -1,7 +1,11 @@
 # 2022년 산업맞춤형 AI인력양성 바우처 지원사업
 
 # Uniinfo-Machine-Vision
-Uniinfo Machine Vision
+
+
+    기본과정 -> https://url.kr/ay1ps4
+
+    심화과정 -> https://url.kr/cady18
 
 
 ### Bar Codes
