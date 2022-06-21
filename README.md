@@ -3,9 +3,9 @@
 # Uniinfo-Machine-Vision
 
 
-    기본과정 -> https://url.kr/ay1ps4
+    기본과정 -> https://url.kr/ay1ps4   (Public 공개)
 
-    심화과정 -> https://url.kr/2m4zp9
+    심화과정 -> https://url.kr/2m4zp9   (Private 비공개)
 
 
 ### Bar Codes
