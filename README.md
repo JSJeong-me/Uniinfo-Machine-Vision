@@ -15,7 +15,7 @@
 
 ### Barcode Images
 
-    ![barcode-images](https://user-images.githubusercontent.com/54794815/177865961-dba9190d-69bc-4b70-90a4-f4794a03ae67.jpg)
+![barcode-images](https://user-images.githubusercontent.com/54794815/177865961-dba9190d-69bc-4b70-90a4-f4794a03ae67.jpg)
 
 
 ### 실습 환경
