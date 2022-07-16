@@ -1,5 +1,11 @@
 # 2022년 산업맞춤형 AI인력양성 바우처 지원사업
 
+### 수업일지
+
+    2022-07-08  Color Space OpenCV Gray Scale Blur Contour
+    2022-07-22  Color Space 응용
+
+
 # Uniinfo-Machine-Vision
 
 
