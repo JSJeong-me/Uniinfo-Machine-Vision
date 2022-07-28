@@ -15,3 +15,13 @@
     연결 요소를 생성한 후 가장 크기가 큰 한 개의 연결 요소를 선택한다.
 
     수평 방향 및 수직 방향의 처리 과정에서 선택한 두 개의 연결 요소의 크기를 비교하여 크기가 더 큰 연결 요소를 최종 바코드 영역으로 검출한다.
+
+
+        x 방향으로의 경계 강도 검출
+        y 방향으로의 경계 강도 검출
+        Gaussian Blurring 결과
+        Thresholding 결과
+        Morphology 변환 결과
+        최종 바코드 검출
+        
+        ![images_stellakim1012_post_90d6211a-d736-468b-8c9c-03abdbf13dd4_image](https://user-images.githubusercontent.com/54794815/181624658-7106be8d-57e3-4e64-b3c3-115cd32dc6c7.png)
