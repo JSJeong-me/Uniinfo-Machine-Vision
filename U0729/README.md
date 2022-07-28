@@ -24,4 +24,4 @@
         Morphology 변환 결과
         최종 바코드 검출
         
-        ![images_stellakim1012_post_90d6211a-d736-468b-8c9c-03abdbf13dd4_image](https://user-images.githubusercontent.com/54794815/181624658-7106be8d-57e3-4e64-b3c3-115cd32dc6c7.png)
+![images_stellakim1012_post_90d6211a-d736-468b-8c9c-03abdbf13dd4_image](https://user-images.githubusercontent.com/54794815/181624910-3838ee43-191a-42c6-82d4-4c350fc9afad.png)
