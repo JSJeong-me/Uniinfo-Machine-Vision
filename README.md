@@ -4,6 +4,7 @@
 
     2022-07-08  Color Space OpenCV Gray Scale Blur Contour
     2022-07-22  Color Space 응용
+    2022-07-29  Barcode detect
 
 
 # Uniinfo-Machine-Vision
